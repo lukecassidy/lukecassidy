@@ -1,6 +1,6 @@
 # Luke Cassidy :mage_man:
 
-## Summary
+## Profile
 - Site Reliability & Software Engineer
 - Dublin, Ireland (GMT+1)
 - BSc Computer Science, DIT (now TUD)
@@ -21,7 +21,7 @@
 - Linux (LPIC)
 - Certified Crèche Runner
 
-## Tools  
+## Core Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
