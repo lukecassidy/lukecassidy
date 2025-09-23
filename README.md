@@ -1,16 +1,23 @@
-## Hi there 👋
+## SRE / Software Engineer
 
-<!--
-**lukecassidy/lukecassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- Design and build systems that scale and stay reliable  
+- Develop tools that save time and make things easier  
+- Support and improve platforms in production  
 
-Here are some ideas to get you started:
+### How I Work
+- See ideas through from start to finish  
+- Automate the repetitive stuff to save my future self (and teammates) the pain  
+- Work comfortably across code, infra, and teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+Explore my repositories here: [github.com/lukecassidy](https://github.com/lukecassidy)
+
+---
+
+### Contact
+- [GitHub](https://github.com/lukecassidy)  
+- [LinkedIn](https://linkedin.com/in/lukecassidy)  
+- [Email](mailto:youremail@example.com)
