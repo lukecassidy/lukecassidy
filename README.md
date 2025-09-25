@@ -1,5 +1,7 @@
 # Luke Cassidy :mage_man:
 
+![lukeiscool-banner](https://github.com/user-attachments/assets/cd5c0285-b875-4e55-8cd7-b2b3970efc5c)
+
 ## Profile
 - Site Reliability & Software Engineer
 - Dublin, Ireland (GMT+1)
