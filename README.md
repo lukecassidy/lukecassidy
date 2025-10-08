@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/00101010-8A2BE2?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-##
-<sub>10101010</sub>
