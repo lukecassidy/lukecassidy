@@ -34,4 +34,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<div style="color: rgba(0, 0, 0, 0.2);">10101010</div>
+##
+<sub>10101010</sub>
