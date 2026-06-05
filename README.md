@@ -5,7 +5,7 @@
 ## Profile
 - Dublin, Ireland (GMT+1)
 - BSc Computer Science, DIT (now TUD)
-- In tech since 2007 — mix of dev and SRE
+- In tech since 2007, mix of dev and SRE
 - Focus: software, automation, reliability, magnets
 
 ## What I Do
